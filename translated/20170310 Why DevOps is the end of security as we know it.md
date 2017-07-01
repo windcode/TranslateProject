@@ -1,4 +1,4 @@
-Translating by windcode
+Translating by windcode WangHaizhen
 
 # Why DevOps is the end of security as we know it
 # 为什么说 DevOps 是安全的终结
